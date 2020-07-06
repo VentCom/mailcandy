@@ -1,0 +1,3 @@
+/^Received:/ IGNORE
+/^Received: .*/     IGNORE
+/^X-Originating-IP:/    IGNORE
