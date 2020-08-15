@@ -18,7 +18,7 @@ sudo apt-get -y update <br />
 sudo apt-get -y dist-upgrade <br />
 sudo apt-get -y install postfix postfix-pcre opendkim opendkim-tools dovecot-core dovecot-imapd dovecot-lmtpd  <br />
 
-git clone https://github.com/transcodium/mailcandy.git <br />
+git clone https://github.com/transcodium/mailcandy <br />
 cd mailcandy <br />
 chmod +x ./install <br />
 ./install  <br />
